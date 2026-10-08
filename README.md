@@ -1,6 +1,6 @@
 # COMP9417 Tutorial Slides
 
-Tutorial slides for COMP9417 (Machine Learning and Data Mining).
+Tutorial slides for COMP9417 (Machine Learning).
 
 ## Disclaimer
 
